@@ -8,7 +8,7 @@ API_TOKEN = '2051732171:AAE6SHQjqDipQLMQO9oqSJN_21ApjYD38R0'
 
 logging.basicConfig(level=logging.INFO)
 
-local_server = TelegramAPIServer.from_base('http://localhost')
+local_server = TelegramAPIServer.from_base('http://188.163.35.182')
 
 bot = Bot(token=API_TOKEN, server=local_server)
 dp = Dispatcher(bot)
