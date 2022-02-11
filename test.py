@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.bot.api import TelegramAPIServer
 from aiogram.types import ContentType
 
-API_TOKEN = '2051732171:AAE6SHQjqDipQLMQO9oqSJN_21ApjYD38R0'
+API_TOKEN = '5168841978:AAGVRD7RD1T5mhvmI99ZPFEXIsvQQb5kCh0'
 
 logging.basicConfig(level=logging.INFO)
 
